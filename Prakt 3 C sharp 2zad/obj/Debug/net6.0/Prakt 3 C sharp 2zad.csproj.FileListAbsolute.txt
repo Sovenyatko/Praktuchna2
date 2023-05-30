@@ -1,0 +1,15 @@
+C:\Users\Наталия\Desktop\KODIK\Prakt 3 C sharp\Prakt 3 C sharp 2zad\bin\Debug\net6.0\Prakt 3 C sharp 2zad.exe
+C:\Users\Наталия\Desktop\KODIK\Prakt 3 C sharp\Prakt 3 C sharp 2zad\bin\Debug\net6.0\Prakt 3 C sharp 2zad.deps.json
+C:\Users\Наталия\Desktop\KODIK\Prakt 3 C sharp\Prakt 3 C sharp 2zad\bin\Debug\net6.0\Prakt 3 C sharp 2zad.runtimeconfig.json
+C:\Users\Наталия\Desktop\KODIK\Prakt 3 C sharp\Prakt 3 C sharp 2zad\bin\Debug\net6.0\Prakt 3 C sharp 2zad.dll
+C:\Users\Наталия\Desktop\KODIK\Prakt 3 C sharp\Prakt 3 C sharp 2zad\bin\Debug\net6.0\Prakt 3 C sharp 2zad.pdb
+C:\Users\Наталия\Desktop\KODIK\Prakt 3 C sharp\Prakt 3 C sharp 2zad\obj\Debug\net6.0\Prakt 3 C sharp 2zad.csproj.AssemblyReference.cache
+C:\Users\Наталия\Desktop\KODIK\Prakt 3 C sharp\Prakt 3 C sharp 2zad\obj\Debug\net6.0\Prakt 3 C sharp 2zad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Наталия\Desktop\KODIK\Prakt 3 C sharp\Prakt 3 C sharp 2zad\obj\Debug\net6.0\Prakt 3 C sharp 2zad.AssemblyInfoInputs.cache
+C:\Users\Наталия\Desktop\KODIK\Prakt 3 C sharp\Prakt 3 C sharp 2zad\obj\Debug\net6.0\Prakt 3 C sharp 2zad.AssemblyInfo.cs
+C:\Users\Наталия\Desktop\KODIK\Prakt 3 C sharp\Prakt 3 C sharp 2zad\obj\Debug\net6.0\Prakt 3 C sharp 2zad.csproj.CoreCompileInputs.cache
+C:\Users\Наталия\Desktop\KODIK\Prakt 3 C sharp\Prakt 3 C sharp 2zad\obj\Debug\net6.0\Prakt 3 C sharp 2zad.dll
+C:\Users\Наталия\Desktop\KODIK\Prakt 3 C sharp\Prakt 3 C sharp 2zad\obj\Debug\net6.0\refint\Prakt 3 C sharp 2zad.dll
+C:\Users\Наталия\Desktop\KODIK\Prakt 3 C sharp\Prakt 3 C sharp 2zad\obj\Debug\net6.0\Prakt 3 C sharp 2zad.pdb
+C:\Users\Наталия\Desktop\KODIK\Prakt 3 C sharp\Prakt 3 C sharp 2zad\obj\Debug\net6.0\Prakt 3 C sharp 2zad.genruntimeconfig.cache
+C:\Users\Наталия\Desktop\KODIK\Prakt 3 C sharp\Prakt 3 C sharp 2zad\obj\Debug\net6.0\ref\Prakt 3 C sharp 2zad.dll
